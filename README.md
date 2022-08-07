@@ -1,5 +1,5 @@
 # CalculatorJS
-This is a simple Tip calculator application that calculates amount of tip based of a given numbers of people.
+This is a simple Tip calculator application using JavaScript, HTML and CSS that calculates amount of tip based of a given numbers of people.
 
 ![TipCalculatorJS](https://user-images.githubusercontent.com/68476870/183280022-08138e48-0edc-4cfa-9d53-f3cbe5bfe094.jpg)
 
